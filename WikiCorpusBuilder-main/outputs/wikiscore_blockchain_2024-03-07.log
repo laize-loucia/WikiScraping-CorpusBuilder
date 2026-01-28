@@ -1,0 +1,37 @@
+2024-03-07 15:07:12,925 [INFO ]  starting getting search pages for term blockchain max pages 5000, secondary term blockchain
+2024-03-07 15:07:23,192 [INFO ]  total search results 2196
+2024-03-07 15:30:19,521 [INFO ]  proper search results 2139
+2024-03-07 15:30:19,526 [INFO ]  title has search key in  26 results
+2024-03-07 15:54:37,176 [INFO ]  found a total of 104 results, in 2844.2513902187347 seconds
+2024-03-07 15:54:37,176 [INFO ]  search terms found: ['Blockchain', 'Blockchain.com', 'Solana (blockchain platform)', 'Terra (blockchain)', 'Fork (blockchain)', 'Cardano (blockchain platform)', 'Privacy and blockchain', 'List of blockchains', 'Polygon (blockchain)', 'Chainlink (blockchain)', 'Blockchain game', 'Blockchain oracle', 'Stacks blockchain', 'Avalanche (blockchain platform)', 'Blockchain Capital', 'Blockchain as a service', 'Blockchain analysis', 'Long Blockchain Corp', 'Blockchain Chicken Farm', 'Blockchain Labs', 'Blockchain Global', 'Blockchain-based database', 'Proof of identity (blockchain consensus)', 'Congressional Blockchain Caucus', 'ICON (blockchain platform)', 'List of people in blockchain technology', 'Non-fungible token', 'Cryptocurrency', 'Bitcoin', 'Bitcoin protocol', 'Everipedia', 'Solidity', 'The Open Network', 'Hardware security module', 'History of bitcoin', 'Decentralized web', 'Justin Sun', 'The Sandbox (company)', 'Trusted timestamping', 'GITEX', 'Kerala University of Digital Sciences, Innovation and Technology', 'Kickstarter', 'Diem (digital currency)', 'Microsoft Azure', 'Stoned (computer virus)', 'Politics and technology', 'Aggelos Kiayias', 'Do Kwon', 'UBS', 'Bruce Schneier', 'Jason Fernandes', 'X-Road', 'Chea Serey', 'MC Lars discography', 'William Entriken', 'Key ceremony', 'Garbage Pail Kids', 'Cryptocurrency and crime', 'List of Internet top-level domains', 'Trade finance technology', 'List of software bugs', 'Wan Kuok-koi', 'Daniel Harple', 'Michael Jones (entrepreneur)', 'Dish Network', 'Virgil Griffith', 'Marine technology', 'List of cyberattacks', 'Sumitomo Mitsui Banking Corporation', 'Distributed ledger technology law', 'Financial audit', 'Governance', 'Hash chain', 'Generative art', 'Non-interactive zero-knowledge proof', 'Zero-knowledge proof', 'Digital art', 'Ayia Napa', 'Data sanitization', 'Local differential privacy', 'This Place (agency)', 'As a service', 'Network effect', 'History of video games', 'Nancy Baker Cahill', 'Jeff Pulver', 'Regulation of algorithms', 'Bill Buchanan (computer scientist)', 'Victor Acevedo', 'Justin Waldron', 'Iyasile Naa', 'Peter Chen', 'Legerwood, Tasmania', 'List of View Askewniverse characters', 'Audit technology', 'List of Atari SA subsidiaries', 'Hernando de Soto (economist)', 'Satish Babu', 'Frankie Bash', 'Pavel Vrublevsky', 'Visible Embryo Project', 'Bangladesh Computer Council', 'Drecom', 'Redbank Power Station'] s
+2024-03-07 15:54:37,178 [INFO ]  getting protection status
+2024-03-07 15:56:31,660 [INFO ]  Done protection info here:
+2024-03-07 15:56:31,660 [INFO ]         0         Blockchain  ... History of video games Hernando de Soto (economist)
+0   2001  protect/unprotect  ...      protect/unprotect            protect/unprotect
+1   2002  protect/unprotect  ...      protect/unprotect            protect/unprotect
+2   2003  protect/unprotect  ...      protect/unprotect            protect/unprotect
+3   2004  protect/unprotect  ...      protect/unprotect            protect/unprotect
+4   2005  protect/unprotect  ...      protect/unprotect            protect/unprotect
+5   2006  protect/unprotect  ...      protect/unprotect            protect/unprotect
+6   2007  protect/unprotect  ...      protect/unprotect            protect/unprotect
+7   2008  protect/unprotect  ...      protect/unprotect            protect/unprotect
+8   2009  protect/unprotect  ...      protect/unprotect            protect/unprotect
+9   2010  protect/unprotect  ...      protect/unprotect            protect/unprotect
+10  2011  protect/unprotect  ...      protect/unprotect            protect/unprotect
+11  2012  protect/unprotect  ...      protect/unprotect            protect/unprotect
+12  2013  protect/unprotect  ...      protect/unprotect            protect/unprotect
+13  2014  protect/unprotect  ...      protect/unprotect            protect/unprotect
+14  2015  protect/unprotect  ...      protect/unprotect            protect/unprotect
+15  2016  protect/unprotect  ...        protect/protect            protect/unprotect
+16  2017  protect/unprotect  ...        protect/protect            protect/unprotect
+17  2018    protect/protect  ...        protect/protect            protect/unprotect
+18  2019    protect/protect  ...        protect/protect            protect/unprotect
+19  2020    protect/protect  ...        protect/protect            protect/unprotect
+20  2021    protect/protect  ...        protect/protect            protect/unprotect
+21  2022    protect/protect  ...        protect/protect            protect/unprotect
+
+[22 rows x 18 columns]
+2024-03-07 15:57:39,106 [INFO ]  collecting and parsing citations
+2024-03-07 15:57:41,919 [INFO ]  mean scietificness score 0.7033707865168539
+2024-03-07 16:31:53,121 [INFO ]  starting getting search pages for term blockchain max pages 5000, secondary term blockchain
+2024-03-07 16:32:06,136 [INFO ]  total search results 2196
