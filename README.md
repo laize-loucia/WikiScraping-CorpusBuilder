@@ -3,7 +3,7 @@ Projet de groupe d'analyse d'un corpus de pages Wikipédia anglophones sur la Bl
 Le but était de tester sa méthode scientifique informatique appliquée à CRISPR (avec WikicorpusBuilder), avec notre objet d'étude : la Blockchain.
 
 
-## Origine
+## Contexte
 
 Projet de fin d'études.
 
