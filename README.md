@@ -9,7 +9,7 @@ Projet de fin d'études.
 
 Ma partie à consisté à :
 
-- réaliser un 1er programme de récupération du corpus ,corpus_creation.py, en récupérant le github, code de Rona the brave. 
+- Réaliser un 1er programme de récupération du corpus ,corpus_creation.py, en récupérant le github, code de Rona the brave. 
 
 - Analyser certains articles d'intérêts sur la Blockchain avec le développement de programmes spécifiques d'analyse, p-histograms_data-collection et à wp-histograms_data-processing, afin de générer des histogrammes et graphiques .
 
