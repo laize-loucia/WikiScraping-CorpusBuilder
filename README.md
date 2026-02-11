@@ -1,5 +1,5 @@
 ## Projet
-Projet de groupe d'analyse d'un corpus de pages Wikipédia anglophones sur la Blockchain récupérées à travers Python.
+Projet de groupe d'analyse d'un corpus de pages Wikipédia anglophones sur la Blockchain récupérées à travers du web scrappping réalisé avec un script Python.
 Le but était de tester sa méthode scientifique informatique appliquée à CRISPR (avec _WikicorpusBuilder_), avec notre objet d'étude : la Blockchain.
 
 
