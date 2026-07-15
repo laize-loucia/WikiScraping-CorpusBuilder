@@ -1,8 +1,8 @@
-## Extraction de données WIkipédia BlockChain (Janvier - Mai 2024)
+## Extraction de données Wikipédia BlockChain (Janvier - Mai 2024)
 
-Projet de fin d'études.
-Projet de groupe constitué d'un chef de projet, deux data analystes, et informaticien.
-rôle : développeur
+Projet de fin d'études.  
+Projet de groupe constitué d'une cheffe de projet, deux data analystes, et un informaticien.  
+Rôle : développeur
 
 Ma partie à consisté à :
 
