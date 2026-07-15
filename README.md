@@ -2,7 +2,7 @@
 Projet de groupe réalisé pour l'université de Paris Nanterre constitué d'une cheffe de projet, deux data analystes, et un informaticien.  
 Rôle : développeur
 
-But : récupérer, quantifier et analyser un corpus de pages Wikipédia anglophones sur la Blockchain récupérées à travers du web scrappping réalisé avec un script Python.
+But : récupérer, quantifier et analyser un corpus de pages Wikipédia anglophones sur la Blockchain récupérées à travers du web scrappping réalisé avec un script Python.  
 Le but était de tester sa méthode scientifique informatique appliquée à CRISPR (avec _WikicorpusBuilder_), avec notre objet d'étude : la Blockchain.
 
 
