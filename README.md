@@ -1,13 +1,14 @@
 ## Extraction de données Wikipédia BlockChain (Janvier - Mai 2024)
 
-Projet de groupe réalisé pour l'université de Paris Nanterre constitué d'une cheffe de projet, deux data analystes, et un informaticien.
+Projet de groupe réalisé pour l'université de Paris Nanterre constitué d'une cheffe de projet, deux data analystes, et un informaticien.  
+Rôle : développeur
 
 But : récupérer, quantifier et analyser un corpus de pages Wikipédia anglophones sur la Blockchain récupérées à travers du web scrappping réalisé avec un script Python.
 Le but était de tester sa méthode scientifique informatique appliquée à CRISPR (avec _WikicorpusBuilder_), avec notre objet d'étude : la Blockchain.
 
 
 
-# Rôle de développeur
+# Rôle
 
 Ma partie à consisté à :
 
