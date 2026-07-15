@@ -1,5 +1,4 @@
-## Extraction de données Wikipédia BlockChain (Janvier - Mai 2024)
-
+# Extraction de données Wikipédia BlockChain (Janvier - Mai 2024)
 Projet de groupe réalisé pour l'université de Paris Nanterre constitué d'une cheffe de projet, deux data analystes, et un informaticien.  
 Rôle : développeur
 
@@ -8,7 +7,7 @@ Le but était de tester sa méthode scientifique informatique appliquée à CRIS
 
 
 
-# Rôle
+## Rôle
 
 Ma partie à consisté à :
 
